@@ -1,12 +1,12 @@
 # Java Student Management System
 
-This is a simple console-based Java application to manage student records.
+This is a simple Java console-based application.
 
 ## Features
 - Add student
 - View students
 - Delete student
 
-## Technologies Used
+## Tech Used
 - Java
-- OOP concepts
+- OOP
